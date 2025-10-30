@@ -104,3 +104,8 @@ A lightweight **Streamlit** interface for real-time spam prediction.
 
 🔗 **Live Demo:**  
 [Spam Classifier Web App](https://spamclassifieremail-m8luarknjk5odsbkirg8nw.streamlit.app/)
+
+## 🧑‍💻 Author
+
+**Harshith Reddy**  
+Machine Learning & Data Science Enthusiast
