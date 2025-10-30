@@ -7,3 +7,6 @@ matplotlib
 seaborn
 string
 wordcloud
+collections
+xgboost
+pickle
