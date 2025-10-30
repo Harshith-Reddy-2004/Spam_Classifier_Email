@@ -6,9 +6,9 @@ pandas
 matplotlib
 seaborn
 wordcloud
-collections
 xgboost
 pickle-mixin
 joblib
+
 
 
