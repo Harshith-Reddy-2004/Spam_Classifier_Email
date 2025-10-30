@@ -1,6 +1,6 @@
 streamlit
 nltk
-sklearn
+scikit-learn
 numpy
 pandas
 matplotlib
@@ -9,4 +9,5 @@ string
 wordcloud
 collections
 xgboost
-pickle
+pickle-mixin
+
